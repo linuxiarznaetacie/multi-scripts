@@ -2,6 +2,7 @@
 
 # Copyright (c) 2025 Jakub Orłowski
 # Licensed under the MIT License. See LICENSE for details.
+
 while true; do
     clear
     echo "+------------------------------------------------------------+"
